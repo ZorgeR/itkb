@@ -16,13 +16,13 @@
 
 ## Структура репозитория
 
-- `course_contents.md` - общее содержание и структура курса
-- `lesson1_what_is_computer.md` - материалы по Уроку 1
-- `lesson2_networks_internet.md` - материалы по Уроку 2
-- `lesson3_using_computer.md` - материалы по Уроку 3
-- `lesson4_useful_skills.md` - материалы по Уроку 4
-- `lesson5_information_security.md` - материалы по Уроку 5
-- `glossary.md` - глоссарий компьютерных терминов, упоминаемых в курсе
+- `course_contents.md` - [Общее содержание и структура курса](course_contents.md)
+- `lesson1_what_is_computer.md` - [Урок 1 - Что такое компьютер](lesson1_what_is_computer.md)
+- `lesson2_networks_internet.md` - [Урок 2 - Компьютерные сети и интернет](lesson2_networks_internet.md)
+- `lesson3_using_computer.md` - [Урок 3 - Работа с компьютером](lesson3_using_computer.md)
+- `lesson4_useful_skills.md` - [Урок 4 - Полезные навыки](lesson4_useful_skills.md)
+- `lesson5_information_security.md` - [Урок 5 - Информационная безопасность](lesson5_information_security.md)
+- `glossary.md` - [Глоссарий компьютерных терминов](glossary.md)
 - `README.md` - этот файл с общей информацией
 
 ## Как использовать материалы
